@@ -60,3 +60,10 @@ https://learn-kernels.com/
 https://learn-ui.com/
 
 ### Learn Data Systems
+
+https://learn-data-systems.vercel.app/
+
+### Hello Interview
+
+https://www.hellointerview.com/
+
