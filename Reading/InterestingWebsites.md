@@ -43,3 +43,20 @@ https://github.com/practical-tutorials/project-based-learning
 
 https://books.goalkicker.com/
 
+### Learn Inference
+
+https://learn-inference.com/
+
+https://www.baseten.co/inference-engineering/
+
+
+### Learn Kernels
+
+https://learn-kernels.com/
+
+
+### Learn UI
+
+https://learn-ui.com/
+
+### Learn Data Systems
