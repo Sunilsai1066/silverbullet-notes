@@ -1,7 +1,7 @@
 
 #### Build a Large Language Model (From Scratch) - Sebastian Raschka
 
-#### AOSP Books
+#### AOSA Books
 
 https://aosabook.org/en/
 
