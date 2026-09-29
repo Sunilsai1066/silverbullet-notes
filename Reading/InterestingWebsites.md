@@ -81,3 +81,9 @@ https://compilers.iecc.com/crenshaw/
 
 https://ruslanspivak.com/lsbasi-part1/
 
+
+### Finding Sub Domains
+
+https://app.agniops.in/v1/search?domain=our-homelab.com
+
+https://crt.name/v1/search?apex=our-homelab.com
