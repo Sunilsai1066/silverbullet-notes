@@ -87,3 +87,8 @@ https://ruslanspivak.com/lsbasi-part1/
 https://app.agniops.in/v1/search?domain=our-homelab.com
 
 https://crt.name/v1/search?apex=our-homelab.com
+
+### DevSecOps Learning
+
+https://blog.stephane-robert.info/en/docs/
+
