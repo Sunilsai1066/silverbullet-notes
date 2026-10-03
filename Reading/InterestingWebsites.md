@@ -92,3 +92,7 @@ https://crt.name/v1/search?apex=our-homelab.com
 
 https://blog.stephane-robert.info/en/docs/
 
+### x86-64 Assembly Blogs
+
+https://gpfault.net/
+
