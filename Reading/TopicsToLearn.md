@@ -12,5 +12,9 @@ https://github.com/denoland/celld
 
 https://theconsensus.dev/developers.html
 
+### WebAssembly
+
+https://webassembly.org/
+
 
 
