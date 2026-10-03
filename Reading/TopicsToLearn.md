@@ -8,5 +8,9 @@ https://celld.dev/
 
 https://github.com/denoland/celld
 
+### Required Reaading - Experience Writer Blogs
+
+https://theconsensus.dev/developers.html
+
 
 
