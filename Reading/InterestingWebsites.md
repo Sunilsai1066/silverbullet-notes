@@ -96,3 +96,7 @@ https://blog.stephane-robert.info/en/docs/
 
 https://gpfault.net/
 
+### How Query Engine Works
+
+https://howqueryengineswork.com/
+
