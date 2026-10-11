@@ -100,3 +100,7 @@ https://gpfault.net/
 
 https://howqueryengineswork.com/
 
+### OSS Projects
+
+https://www.opensourceprojects.dev/
+
