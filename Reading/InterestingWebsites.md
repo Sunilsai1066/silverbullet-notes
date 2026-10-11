@@ -108,3 +108,7 @@ https://www.opensourceprojects.dev/
 
 https://use-the-index-luke.com/
 
+### How To Secure Linux Server
+
+https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
+
